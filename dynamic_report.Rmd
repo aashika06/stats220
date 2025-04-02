@@ -19,10 +19,9 @@ body {
 ## Trends in Outfit Colours and Logos by Location. 
 This is an observational study about fashion trends in public spaces by recording data about an individual's most dominant outfit colour, number of visible logos, number of layers and their location of outfit. 
 
-By using a bar graph, I was able to visualize the distribution of the most common dominant outfits colour by location. Blue was the the most common appearing across various locations. Black was the most common colour for the university campus and was only seen there. 
+By using a bar graph to sort my data for average number of logos per outfit by locations. Cafe/ Restaurants seemed to have the highest number of logos per outfit, showing people might get dressed up more for special occasions like going out to eat. Park/ Outdoor area had the lowest average which might mean that people don' t tend to dress up in these more expensive branded clothes in places they might get ruined. The average number of logos observed was 1.95 while the max was 8. This shows a fashion trend that people wear less than 2 logos per outfit and wear minimalist clothes but some people tend to prefer heavy branding. 
 
-I also created a bar graph to sort my data for average number of logos per outfit by locations. Cafe/ Restaurants seemed to have the highest number of logos per outfit, showing people might get dressed up more for special occasions like going out to eat. Park/ Outdoor area had the lowest average which might mean that people don' t tend to dress up in these more expensive branded clothes in places they might get ruined. The average number of logos observed was 1.95 while the max was 8. This shows a fashion trend that people wear less than 2 logos per outfit and wear minimalist clothes but some people tend to prefer heavy branding. 
-
+I also created a bar graph, I was able to visualize the distribution of the most common dominant outfits colour by location. Blue was the the most common appearing across various locations. Black was the most common colour for the university campus and was only seen there. 
 
 ```{r}
 library(tidyverse)      
